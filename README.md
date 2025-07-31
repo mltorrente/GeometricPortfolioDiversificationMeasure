@@ -1,7 +1,4 @@
 # GeometricPortfolioDiversificationMeasure
-This project implements a function to compute the Geometric Portfolio Diversification Measure (GPDM) for a portfolio weight vector. 
-The GPDM quantifies diversification by combining portfolio weights with the concentration of risk.
-
 This project implements a function to compute the Geometric Portfolio Diversification Measure (GPDM) — a quantitative measure of 
 the diversification of a financial portfolio, based on a specified risk metric.
 
