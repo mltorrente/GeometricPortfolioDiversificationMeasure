@@ -1,5 +1,5 @@
 # GeometricPortfolioDiversificationMeasure
-This project implements a function to compute the Geometric Portfolio Diversification Measure (GPDM) — a quantitative measure of 
+This project implements a MATLAB function to compute the Geometric Portfolio Diversification Measure (GPDM) — a quantitative measure of 
 the diversification of a financial portfolio, based on a specified risk metric.
 
 The function accepts the following inputs:
