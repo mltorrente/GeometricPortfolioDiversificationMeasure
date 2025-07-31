@@ -3,7 +3,6 @@ This project implements a function to compute the Geometric Portfolio Diversific
 the diversification of a financial portfolio, based on a specified risk metric.
 
 The function accepts the following inputs:
-
 w: a weight vector w representing the allocation of the portfolio across n assets. It is assumed that w lies in the n-dimensional simplex 
 (i.e., non-negative weights summing to 1).
 rho: a vector containing the values of the risk metric associated with each asset (e.g., volatility, Value at Risk, Expected Shortfall, etc.). 
